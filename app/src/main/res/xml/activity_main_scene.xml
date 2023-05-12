@@ -62,9 +62,9 @@
             android:layout_width="47dp"
             android:id="@+id/imageView3" />
         <Constraint
-            motion:layout_editor_absoluteY="2dp"
-            android:layout_height="729dp"
-            android:layout_width="407dp"
+            motion:layout_editor_absoluteY="7dp"
+            android:layout_height="689dp"
+            android:layout_width="366dp"
             android:id="@+id/imageView"
             motion:layout_editor_absoluteX="3dp" />
     </ConstraintSet>
@@ -81,9 +81,10 @@
             android:layout_width="47dp"
             android:id="@+id/imageView3" />
         <Constraint
-            android:layout_height="729dp"
-            android:layout_width="408dp"
+            android:layout_height="689dp"
+            android:layout_width="367dp"
             android:id="@+id/imageView"
-            motion:layout_editor_absoluteY="2dp" />
+            motion:layout_editor_absoluteY="1dp"
+            motion:layout_editor_absoluteX="2dp" />
     </ConstraintSet>
 </MotionScene>
